@@ -13,7 +13,7 @@ namespace ConsoleApp1
             Console.WriteLine("please enter a number");
             int a = int.Parse(Console.ReadLine());
             
-            int x = 10, y = 20;
+            int x = 20, y = 20;
             switch(a)
             {
                 case 1:
